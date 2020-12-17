@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently working on Tantan. 
+I’m currently working on TanTan. 
 I’m currently learning Kotlin Coroutines and Flow.
 
 I hava write some articles for learning in JianShu.
